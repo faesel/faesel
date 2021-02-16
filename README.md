@@ -1,7 +1,12 @@
 # Hi there 👋
 
-## Blog: [https://www.faesel.com](www.faesel.com)
-## Social: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/faeselsaeed.svg?style=social&label=Follow%20faeselsaeed)](https://twitter.com/faeselsaeed)
+## Blog
+
+[https://www.faesel.com](www.faesel.com)
+
+## Social
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/faeselsaeed.svg?style=social&label=Follow%20faeselsaeed)](https://twitter.com/faeselsaeed)
 
 <!--
 **faesel/faesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
