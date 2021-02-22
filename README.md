@@ -1,24 +1,25 @@
-# Hi there 👋
-
-## Blog
-
-[https://www.faesel.com](www.faesel.com)
-
-## Social
-
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/faeselsaeed.svg?style=social&label=Follow%20faeselsaeed)](https://twitter.com/faeselsaeed)
-
-<!--
-**faesel/faesel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi 👋</h1>
+<p><a href="https://www.twitter.com/faeselsaeed"><img
+            src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
+            height=25></a> <a href="https://www.linkedin.com/in/faesel-saeed-%F0%9F%92%BB-a97b1614"><img
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+            height=25></a></p>
+<p><a href="https://www.faesel.com">➡️ Check out my website</a></p>
+<a href="https://www.buymeacoffee.com/faesel" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+</a>
+<h2>Latest Blog Posts</h2>
+<ul>
+    <li><a href=https://www.faesel.com/blog/aspnet-core-react-spa-adding-environments />Adding environments to ASP.NET Core with React.js SPA</a></li>
+    <li><a href=https://www.faesel.com/blog/my-journey-of-creating-a-dotnet-cli-tool />My journey of creating a .NET CLI tool</a>
+    </li>
+    <li><a
+            href=https://www.faesel.com/blog/dotnet-grpc-forgot-to-tell-you />.NET & GRPC What they forgot to tell you</a></li>
+    <li><a
+            href=https://www.faesel.com/blog/evolving-windows-terminal />Evolving your Windows Terminal using Powershell libraries</a></li>
+    <li><a
+            href=https://www.faesel.com/blog/gatsby-seo-opengraph-helmet />GatsbyJS SEO and Open Graph with Helmet</a></li>
+</ul>
+<p><a href="https://www.faesel.com/blog">➡️ More blog posts</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=faesel&amp;show_icons=true" alt="GitHub Stats"></p>
