@@ -8,7 +8,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" height="25" alt="Buy Me A Coffee">
 </a></p>
 
-<h2>Latest Blog Posts</h2>
+<h2>🧾 Latest Blog Posts</h2>
 <ul>
     <li><a href=https://www.faesel.com/blog/aspnet-core-react-spa-adding-environments />Adding environments to ASP.NET Core with React.js SPA</a></li>
     <li><a href=https://www.faesel.com/blog/my-journey-of-creating-a-dotnet-cli-tool />My journey of creating a .NET CLI tool</a>
@@ -21,7 +21,7 @@
             href=https://www.faesel.com/blog/gatsby-seo-opengraph-helmet />GatsbyJS SEO and Open Graph with Helmet</a></li>
 </ul>
 <p><a href="https://www.faesel.com/blog">➡️ More blog posts</a></p>
-<h2>GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 <p>
             <img width="410px" src="https://github-readme-stats.vercel.app/api?username=faesel&amp;show_icons=true&layout=compact" alt="GitHub Stats">
             <img width="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faesel&exclude_repo=faesel.github.io&layout=compact" alt="Most Used Languages"/>
