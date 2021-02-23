@@ -20,7 +20,7 @@
     <li><a
             href=https://www.faesel.com/blog/gatsby-seo-opengraph-helmet />GatsbyJS SEO and Open Graph with Helmet</a></li>
 </ul>
-<p><a href="https://www.faesel.com/blog">➡️ More blog posts</a></p>
+<p><a href="https://www.faesel.com/blog">Read more here ...</a></p>
 <h2>📈 GitHub Stats</h2>
 <p>
             <img width="410px" src="https://github-readme-stats.vercel.app/api?username=faesel&amp;show_icons=true&layout=compact" alt="GitHub Stats">
