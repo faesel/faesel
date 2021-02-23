@@ -4,7 +4,6 @@
             height=25></a> <a href="https://www.linkedin.com/in/faesel-saeed-%F0%9F%92%BB-a97b1614"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             height=25></a></p>
-<p><a href="https://www.faesel.com">➡️ Check out my website</a></p>
 <a href="https://www.buymeacoffee.com/faesel" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
 </a>
@@ -22,4 +21,7 @@
 </ul>
 <p><a href="https://www.faesel.com/blog">➡️ More blog posts</a></p>
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=faesel&amp;show_icons=true" alt="GitHub Stats"></p>
+<p>
+            <img width="410px" src="https://github-readme-stats.vercel.app/api?username=faesel&amp;show_icons=true&layout=compact" alt="GitHub Stats">
+            <img width="345px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faesel&exclude_repo=faesel.github.io&layout=compact" alt="Most Used Languages"/>
+</p>
