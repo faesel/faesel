@@ -3,10 +3,11 @@
             src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
             height=25></a> <a href="https://www.linkedin.com/in/faesel-saeed-%F0%9F%92%BB-a97b1614"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-            height=25></a></p>
+            height=25></a>
 <a href="https://www.buymeacoffee.com/faesel" target="_blank" rel="noreferrer nofollow">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
-</a>
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" height="25" alt="Buy Me A Coffee">
+</a></p>
+
 <h2>Latest Blog Posts</h2>
 <ul>
     <li><a href=https://www.faesel.com/blog/aspnet-core-react-spa-adding-environments />Adding environments to ASP.NET Core with React.js SPA</a></li>
