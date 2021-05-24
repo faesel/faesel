@@ -10,6 +10,7 @@
 
 <h2>🧾 Latest Blog Posts</h2>
 <ul>
+    <li><a href=https://www.faesel.com/blog/why-every-developer-needs-to-use-obsidian />ASP.NET GraphQL server with Hot Chocolate</a></li>
     <li><a href=https://www.faesel.com/blog/aspnet-graphql-server-with-hot-chocolate />ASP.NET GraphQL server with Hot Chocolate</a></li>
     <li><a href=https://www.faesel.com/blog/aspnet-core-react-spa-adding-environments />Adding environments to ASP.NET Core with React.js SPA</a></li>
     <li><a href=https://www.faesel.com/blog/my-journey-of-creating-a-dotnet-cli-tool />My journey of creating a .NET CLI tool</a>
