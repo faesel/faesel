@@ -1,7 +1,7 @@
 <h1>Hello World 👋</h1>
 <p><a href="https://www.twitter.com/faeselsaeed"><img
             src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-            height=25></a> <a href="https://www.linkedin.com/in/faesel-saeed-%F0%9F%92%BB-a97b1614"><img
+            height=25></a> <a href="https://www.linkedin.com/in/faesel-saeed-a97b1614/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             height=25></a>
 <a href="https://www.buymeacoffee.com/faesel" target="_blank" rel="noreferrer nofollow">
