@@ -10,6 +10,7 @@
 
 <h2>🧾 Latest Blog Posts</h2>
 <ul>
+    <li><a href=https://www.faesel.com/blog/fullstack-nx-using-react-csharp />Going fullstack with Nx monorepo using C# and React</a></li>        
     <li><a href=https://www.faesel.com/blog/electron-newrelic-integration-using-open-telemetry />Electron & New Relic Integration Using Open Telemetry</a></li>
     <li><a href=https://www.faesel.com/blog/why-every-developer-needs-to-use-obsidian />Why every developer needs to use Obsidian</a></li>
     <li><a href=https://www.faesel.com/blog/aspnet-graphql-server-with-hot-chocolate />ASP.NET GraphQL server with Hot Chocolate</a></li>
@@ -20,7 +21,5 @@
             href=https://www.faesel.com/blog/dotnet-grpc-forgot-to-tell-you />.NET & GRPC What they forgot to tell you</a></li>
     <li><a
             href=https://www.faesel.com/blog/evolving-windows-terminal />Evolving your Windows Terminal using Powershell libraries</a></li>
-    <li><a
-            href=https://www.faesel.com/blog/gatsby-seo-opengraph-helmet />GatsbyJS SEO and Open Graph with Helmet</a></li>
 </ul>
 <p><a href="https://www.faesel.com/blog">Read more here ...</a></p>
