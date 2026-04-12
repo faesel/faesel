@@ -10,6 +10,7 @@
 
 <h2>🧾 Latest Blog Posts</h2>
 <ul>
+    <li><a href=https://www.faesel.com/blog/gridwatch-v028-from-side-project-to-daily-driver />GridWatch v0.28.0 — From Side Project to Daily Driver</a></li>
     <li><a href=https://www.faesel.com/blog/gridwatch-copilot-session-manager />Building GridWatch — A Dashboard for GitHub Copilot CLI Sessions</a></li>        
     <li><a href=https://www.faesel.com/blog/fullstack-nx-using-react-csharp />Going fullstack with Nx monorepo using C# and React</a></li>        
     <li><a href=https://www.faesel.com/blog/electron-newrelic-integration-using-open-telemetry />Electron & New Relic Integration Using Open Telemetry</a></li>
